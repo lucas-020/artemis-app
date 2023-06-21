@@ -32,7 +32,7 @@ wget https://get.helm.sh/helm-v3.7.2-linux-amd64.tar.gz
 tar xzvf helm-v3.7.2-linux-amd64.tar.gz
 rm -rf helm-v3.7.2-linux-amd64.tar.gz
 mv linux-amd64/helm charts/
-cd chart
+cd charts
 ```
 
 ### 3. Create helm chart for application
