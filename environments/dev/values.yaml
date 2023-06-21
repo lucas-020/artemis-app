@@ -13,7 +13,7 @@ ingress:
       paths:
         - path: /
           pathType: ImplementationSpecific
-  tls: []
+  tls: 
    - secretName: artesmi-dev
      hosts:
        - dev.kudratillo.org
