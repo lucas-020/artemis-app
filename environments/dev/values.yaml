@@ -1,4 +1,5 @@
 replicaCount: 2
+
 ingress:
   enabled: false
   className: ""
@@ -16,4 +17,3 @@ ingress:
    - secretName: artesmi-dev
      hosts:
        - dev.kudratillo.org
-       
