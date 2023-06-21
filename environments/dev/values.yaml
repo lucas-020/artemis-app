@@ -16,3 +16,4 @@ ingress:
    - secretName: artesmi-dev
      hosts:
        - dev.kudratillo.org
+       
